@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Bibdle2/static/css/main.a14d221b.css",
-    "main.js": "/Bibdle2/static/js/main.ca390b0a.js",
-    "static/js/787.9fd50364.chunk.js": "/Bibdle2/static/js/787.9fd50364.chunk.js",
-    "static/media/BCSans-Bold.woff": "/Bibdle2/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
-    "static/media/BCSans-BoldItalic.woff": "/Bibdle2/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
-    "static/media/BCSans-Italic.woff": "/Bibdle2/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
-    "static/media/BCSans-Regular.woff": "/Bibdle2/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
-    "index.html": "/Bibdle2/index.html",
-    "static/media/getFetch.cjs": "/Bibdle2/static/media/getFetch.c780682470504fffbd04.cjs",
-    "main.a14d221b.css.map": "/Bibdle2/static/css/main.a14d221b.css.map",
-    "main.ca390b0a.js.map": "/Bibdle2/static/js/main.ca390b0a.js.map",
-    "787.9fd50364.chunk.js.map": "/Bibdle2/static/js/787.9fd50364.chunk.js.map"
+    "main.css": "/Bibdle/static/css/main.3ddb1c7a.css",
+    "main.js": "/Bibdle/static/js/main.72952dc8.js",
+    "static/js/787.9fd50364.chunk.js": "/Bibdle/static/js/787.9fd50364.chunk.js",
+    "static/media/BCSans-Bold.woff": "/Bibdle/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
+    "static/media/BCSans-BoldItalic.woff": "/Bibdle/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
+    "static/media/BCSans-Italic.woff": "/Bibdle/static/media/BCSans-Italic.9c3be03a06d30a6ecff0.woff",
+    "static/media/BCSans-Regular.woff": "/Bibdle/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
+    "index.html": "/Bibdle/index.html",
+    "static/media/getFetch.cjs": "/Bibdle/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.3ddb1c7a.css.map": "/Bibdle/static/css/main.3ddb1c7a.css.map",
+    "main.72952dc8.js.map": "/Bibdle/static/js/main.72952dc8.js.map",
+    "787.9fd50364.chunk.js.map": "/Bibdle/static/js/787.9fd50364.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a14d221b.css",
-    "static/js/main.ca390b0a.js"
+    "static/css/main.3ddb1c7a.css",
+    "static/js/main.72952dc8.js"
   ]
 }
