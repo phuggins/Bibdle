@@ -1,7 +1,7 @@
 {
     "name": "any-language-wordle",
     "version": "0.1.0",
-    "homepage": "https://phuggins.github.io/Bibdle2",
+    "homepage": "https://phuggins.github.io/Bibdle",
     "private": true,
     "dependencies": {
         "@bcgov/bc-sans": "^1.0.1",
